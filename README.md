@@ -30,6 +30,9 @@
 * [Pima Indian Diabetes](https://web.archive.org/web/20180303223954/https://archive.ics.uci.edu/ml/datasets/pima+indians+diabetes) [(via Kaggle)](https://www.kaggle.com/uciml/pima-indians-diabetes-database) (Source: UCI, 768 instances, 8 features)
 * [Census Income > $50k](https://archive.ics.uci.edu/ml/datasets/Adult) (Source: UCI, 48842 instances, 14 features, missing values)
 
+* [Santander Customer Satisfaction](https://www.kaggle.com/c/santander-customer-satisfaction/data) (Source: Kaggle, 75.8k instances, 370 features)
+* [Higg Boson Challenge](https://www.kaggle.com/c/higgs-boson/data) (Source: Kaggle, 250k instances, 30 features)
+
 #### Churn Prediction
 
 * https://www.kaggle.com/blastchar/telco-customer-churn
