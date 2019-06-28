@@ -2,18 +2,22 @@
 
 ## General Dataset Lists/Registries
 
+* [UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/datasets.php)
 * [Kaggle Datasets](https://www.kaggle.com/datasets) (>17,000 datasets)
+* [WorldBank, Kaggle Maintained](https://www.kaggle.com/theworldbank/datasets)
 * https://registry.opendata.aws/
 * https://toolbox.google.com/datasetsearch
 * http://deeplearning.net/datasets/ (Images, Speech, Text)
 * [KDnuggets Datasets](https://www.kdnuggets.com/datasets/index.html)
-* [UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/datasets.php)
 * [Scikit-Learn datasets](https://scikit-learn.org/stable/datasets/index.html)
 
-## Dataset Recommendations
+## People's Dataset Recommendations
 * https://lionbridge.ai/datasets/the-50-best-free-datasets-for-machine-learning/
 * https://www.springboard.com/blog/free-public-data-sets-data-science-project/
 * [Datasets for binary classification](https://jamesmccaffrey.wordpress.com/2018/03/14/datasets-for-binary-classification/)
+* [Kaggle Bio Datasets](https://whyiswritinghard.blogspot.com/2017/11/kaggle-datasets.html)
+* [Datasets on Kaggle](https://towardsdatascience.com/interesting-datasets-on-kaggle-com-3a4a250b0b85)
+
 
 ## Companies
 
